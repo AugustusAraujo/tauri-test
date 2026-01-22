@@ -1,3 +1,6 @@
+WEBKIT_DISABLE_DMABUF_RENDERER=1 pnpm tauri dev
+https://github.com/tauri-apps/tauri/issues/10702
+
 # Tauri 2.0 + TanStack Start React Template
 
 ![Tauri window screenshot](public/tauri-tanstack-start-react-template-screenshot-01.png)
